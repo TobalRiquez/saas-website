@@ -67,14 +67,13 @@ a,
 p,
 .btn {
   color: #f7f7f7;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 .btn {
   background-color: #ffa359;
   color: #fff;
   border-radius: 8px;
-  border-color: none;
   text-decoration: none;
 }
 
@@ -143,8 +142,6 @@ p,
 .bannerb {
   background-color: #8fbdc4;
 }
-
-
 
 .blue {
   color: #0096b9;
