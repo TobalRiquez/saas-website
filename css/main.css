@@ -74,6 +74,8 @@ p,
   background-color: #ffa359;
   color: #fff;
   border-radius: 8px;
+  border-color: none;
+  text-decoration: none;
 }
 
 .section-blue {
@@ -137,6 +139,12 @@ p,
 .banner2 {
   background-color: #fff6d3;
 }
+
+.bannerb {
+  background-color: #8fbdc4;
+}
+
+
 
 .blue {
   color: #0096b9;
